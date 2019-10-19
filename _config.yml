@@ -57,14 +57,11 @@ sass:
   style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
-
-future: true
+timezone: Asia/Beijing # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
   posts:
-    future: true
     title: 实验室动态 # Needed for Siteleaf
     output: true
     description: "实验室动态及分享" # The post list page content
