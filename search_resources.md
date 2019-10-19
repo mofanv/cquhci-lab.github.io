@@ -9,15 +9,13 @@ excerpt: "Search for a page or post you're looking for"
 
 
 ## 推荐资源
-会议
+「待添加」
 
-做研究指南
+「会议信息等」
 
-等
+「做研究指南」
 
-
-
-
+「其他有价值的链接资源」
 
 
 	

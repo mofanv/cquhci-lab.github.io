@@ -64,7 +64,7 @@ collections:
   posts:
     title: 实验室动态 # Needed for Siteleaf
     output: true
-    description: "实验室动态及分享" # The post list page content
+    description: "「此出为博客，可上传包括个人分享，实验室活动等」" # The post list page content
     feature_text: |
       欢迎光临重庆大学人机交互实验室
     feature_image: "https://picsum.photos/2560/600?image=866"
