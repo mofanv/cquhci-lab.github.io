@@ -23,3 +23,9 @@ HCI实验室坚持培养学生明辨和洞察的能力，不愤不启，不悱�
 
 ## 新闻动态
 
+「待添加」
+「2019年10月，饶老师访问XXXXXXXXXX」
+「2019年8月，XXXXXXXXXX」
+「2019年6月，XXXXXXXXXX」
+「2018年2月，XXXXXXXXXX」
+「2019年1月，XXXXXXXXXX」
