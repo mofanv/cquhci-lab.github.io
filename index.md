@@ -17,7 +17,7 @@ HCI实验室已培养硕士6名，目前在研人员9名，分别来自工业工
 
 HCI实验室坚持培养学生明辨和洞察的能力，不愤不启，不悱不发，以达到思维系统的革新，努力建设在人机交互领域领先并具有重要影响力的研究团队。
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} {% include button.html text="Tip me $5 💸" link="https://www.paypal.me/daviddarnes/5usd" color="#333333" %}
+{% include button.html text="待添加" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="待添加" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="待添加" link="https://github.com/daviddarnes/alembic#installation" %} {% include button.html text="待添加" link="https://www.paypal.me/daviddarnes/5usd" color="#333333" %}
 
 
 
